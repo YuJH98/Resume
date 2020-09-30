@@ -31,6 +31,6 @@
 
 github address: [YuJH98][github]    
 
-[github]:htttp://github.com/YuJH98
+[github]:http://github.com/YuJH98
 
 
