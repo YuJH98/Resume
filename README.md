@@ -8,7 +8,8 @@
 
 # 소속 : [소프트웨어융합대학][2]  
 [2]:https://sw.hallym.ac.kr/ 
-전공 : 스마트IoT 전공       
+# 전공 : [스마트IoT 전공][3]    
+[3]:https://sw.hallym.ac.kr/index.php?mp=2_4     
 학년 : 2학년      
 
 ----------------
