@@ -9,17 +9,17 @@
 ---
 
 # 소속 : [소프트웨어융합대학][2]  
-[2]:https://sw.hallym.ac.kr/ 
-# 전공 : [스마트IoT 전공][3]    
-[3]:https://sw.hallym.ac.kr/index.php?mp=2_4          
+[2]:https://sw.hallym.ac.kr/           
 
 ----------------
 
 |주전공|복수전공|       
 |---|---|        
-|[스마트IoT 전공][3]|일본학과|    
+|[스마트IoT 전공][3]|[일본학과][4]|    
 
-[3]:https://sw.hallym.ac.kr/index.php?mp=2_4
+[3]:https://sw.hallym.ac.kr/index.php?mp=2_4      
+[4]:http://japanese.hallym.ac.kr/japanese/index.do      
+
 ----------
 
 거주지 : 서울      
